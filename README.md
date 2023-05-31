@@ -1,3 +1,3 @@
 # TIC-TAC-TOE
-Learning JS
+A Basic JavaScript Game using Vanila JS
 || Deployed link => https://ayushverma-1307.github.io/TIC-TAC-TOE/
